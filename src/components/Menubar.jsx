@@ -53,7 +53,7 @@ function AboutModal({ open, onClose }) {
           </p>
 
           <p className="font-neue mt-3 text-sm text-black/70">
-            Fresh Comp Sci Graduate tinkering at the intersection of code, design and data.
+            Fresh Comp Sci graduate tinkering at the intersection of code, design and data.
             Currently open to roles that are hiring.
           </p>
 
